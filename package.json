@@ -1,0 +1,25 @@
+{
+  "name": "images-tooltip",
+  "version": "1.0.0",
+  "description": "simple jquery images tooltips ",
+  "main": "images.tooltips.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigang93/images-tooltip.git"
+  },
+  "keywords": [
+    "images",
+    "tooltips",
+    "enlarge",
+    "popup"
+  ],
+  "author": "Zi Gang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zigang93/images-tooltip/issues"
+  },
+  "homepage": "https://github.com/zigang93/images-tooltip#readme"
+}
